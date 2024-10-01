@@ -1,2 +1,2 @@
 # SQLProjectMovies
-Repository for CS 452 SQL Open AI Project
+Test Repository Figuring out how to use the OpenAI API and MySQL
